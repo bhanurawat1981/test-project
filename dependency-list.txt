@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.sapient.ws.test:test-project >------------------
+[INFO] Building test-project 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ test-project ---
+[INFO] com.sapient.ws.test:test-project:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.9:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.152 s
+[INFO] Finished at: 2019-11-24T13:50:32+05:30
+[INFO] ------------------------------------------------------------------------
